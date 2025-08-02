@@ -116,9 +116,8 @@ This project is for educational and research purposes only. Please consult offic
 
 ## 📬 Contact
 
-**Author**: Mithun Shabnom  
-**LinkedIn**: [Your LinkedIn URL]  
-**Email**: [Your email]  
+**Author**: Shanzia Shabnom Mithun  
+**Email**: shabnommithun@gmail.com  
 **GitHub**: https://github.com/shabnomm
 
 ---
