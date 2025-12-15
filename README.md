@@ -120,6 +120,3 @@ This project is for educational and research purposes only. Please consult offic
 **Email**: shabnommithun@gmail.com  
 **GitHub**: https://github.com/shabnomm
 
----
-
-⭐ Star this repo if you find it helpful!
